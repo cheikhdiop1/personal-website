@@ -84,13 +84,13 @@ a{
 /* animations / utilities */
 .section-2 a:hover{
     font-size: 1.2rem;
-    color: #e12626;
+    color: lightskyblue;
     cursor: pointer;
     transition: 0.4s;
 }
 
 .section-1 a:hover{
-    color: #e12626;
+    color: lightskyblue;
     cursor: pointer;
     transition: 0.3s;
 }
